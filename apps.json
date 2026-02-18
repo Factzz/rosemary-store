@@ -3,18 +3,18 @@
     "id": "netbow-master",
     "name": "NetBow Master",
     "desc": "เครื่องคำนวณปริมาณน้ำสำหรับวงแหวน NetBow เปลี่ยนมิลลิลิตรเป็นวินาทีอัตโนมัติ",
-    "icon": "fa-ring", 
+    "icon": "fa-ring",
     "color": "#1d1d1d",
     "version": "1.0.0",
     "author": "Rosemary Lab",
-    "readmeUrl": "https://raw.githubusercontent.com/Factzz/netbow-master/main/README.md",
-    "coverImg": "https://raw.githubusercontent.com/Factzz/netbow-master/main/assets/cover.jpg",
+    "readmeUrl": "https://raw.githubusercontent.com/Factzz/netbow-master/refs/heads/main/README.md",
+    "coverImg": "https://raw.githubusercontent.com/Factzz/netbow-master/refs/heads/main/assets/cover.jpg",
     "devImg": "https://avatars.githubusercontent.com/u/262336601?v=4",
-    "appUrl": "https://raw.githubusercontent.com/Factzz/netbow-master/main/netbow.html",
+    "appUrl": "https://raw.githubusercontent.com/Factzz/netbow-master/refs/heads/main/netbow.html",
     "contributors": []
   }
-
 ]
+
 
 
 

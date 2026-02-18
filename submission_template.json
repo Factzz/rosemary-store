@@ -1,0 +1,16 @@
+
+[
+  {
+    "id": "CHANGE_THIS_ID_NO_SPACE",
+    "name": "My Application Name",
+    "desc": "Short description of what your app does.",
+    "icon": "fa-cube",
+    "color": "#007AFF",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "readmeUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/README.md",
+    "coverImg": "https://source.unsplash.com/random/800x400",
+    "devImg": "https://ui-avatars.com/api/?name=Dev",
+    "contributors": []
+  }
+]

@@ -1,61 +1,16 @@
 [
   {
-    "id": "PulseWater",
-    "name": "Pulse Watering",
-    "desc": "ระบบรดน้ำแบบเป็นจังหวะ (Pulse) ช่วยให้ดินซึมซับน้ำได้ดีกว่าการรดรวดเดียว ลดปัญหาน้ำท่วมขังหน้าดิน",
-    "icon": "fa-water",
-    "color": "#4facfe",
-    "version": "1.0.5",
-    "author": "Rosemary Lab",
-    "readmeUrl": "https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/README.md",
-    "coverImg": "https://images.unsplash.com/photo-1518159938814-17c37a6b7280?w=800&q=80",
-    "devImg": "https://ui-avatars.com/api/?name=Rosemary+Lab&background=0D8ABC&color=fff",
-    "contributors": [
-      "https://ui-avatars.com/api/?name=John+D&background=random",
-      "https://ui-avatars.com/api/?name=Sara+C&background=random"
-    ]
-  },
-  {
-    "id": "DeepLog",
-    "name": "Deep Logger",
-    "desc": "บันทึกค่าความชื้นและอุณหภูมิลงหน่วยความจำทุกๆ 1 นาที สามารถ Export เป็นไฟล์ CSV เพื่อนำไปวิเคราะห์ต่อได้",
-    "icon": "fa-chart-line",
-    "color": "#43e97b",
-    "version": "2.1.0",
-    "author": "Open Community",
-    "readmeUrl": "https://raw.githubusercontent.com/microsoft/vscode/main/README.md",
-    "coverImg": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
-    "devImg": "https://ui-avatars.com/api/?name=Community&background=2ecc71&color=fff",
-    "contributors": [
-      "https://ui-avatars.com/api/?name=Alex&background=random",
-      "https://ui-avatars.com/api/?name=Ben&background=random",
-      "https://ui-avatars.com/api/?name=Ken&background=random"
-    ]
-  },
-  {
-    "id": "NightMode",
-    "name": "Silent Night",
-    "desc": "โหมดกลางคืนอัตโนมัติ: ปิดไฟสถานะ LED และลดความแรงปั๊มน้ำลง 50% เพื่อไม่ให้เสียงรบกวนการนอนหลับ",
-    "icon": "fa-moon",
-    "color": "#667eea",
+    "id": "NetBowMaster",
+    "name": "NetBow Master",
+    "desc": "เครื่องคำนวณปริมาณน้ำสำหรับวงแหวน NetBow เปลี่ยนมิลลิลิตรเป็นวินาทีอัตโนมัติ",
+    "icon": "fa-ring",
+    "color": "#1d1d1d",
     "version": "1.0.0",
-    "author": "Official",
-    "readmeUrl": "https://raw.githubusercontent.com/axios/axios/v1.x/README.md",
-    "coverImg": "https://images.unsplash.com/photo-1532971556133-c23177699933?w=800&q=80",
-    "devImg": "https://ui-avatars.com/api/?name=Admin&background=000&color=fff",
-    "contributors": []
-  },
-  {
-    "id": "SunTrack",
-    "name": "Solar Tracker",
-    "desc": "คำนวณทิศทางแสงแดดตามพิกัด GPS เพื่อแนะนำตำแหน่งการวางกระถางที่เหมาะสมที่สุดสำหรับพืชแต่ละชนิด",
-    "icon": "fa-sun",
-    "color": "#ff9a9e",
-    "version": "0.9.2",
-    "author": "Solar Team",
-    "readmeUrl": "https://raw.githubusercontent.com/facebook/react/main/README.md",
-    "coverImg": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&q=80",
-    "devImg": "https://ui-avatars.com/api/?name=Solar+Team&background=ff9a9e&color=fff",
+    "author": "Rosemary Lab",
+    "readmeUrl": "https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/README.md", 
+    "coverImg": "https://images.unsplash.com/photo-1622383563227-044011358d4a?w=800&q=80",
+    "devImg": "https://ui-avatars.com/api/?name=Net+Bow&background=1d1d1d&color=fff",
     "contributors": []
   }
+
 ]

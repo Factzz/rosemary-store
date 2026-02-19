@@ -15,20 +15,23 @@
   }
 
   {
-        "id": "ha-bridge",
-        "name": "HA Bridge",
-        "desc": "เชื่อมต่อ Home Assistant ผ่าน REST API",
-        "version": "1.0.0",
-        "author": "Rosemary Team",
-        "icon": "fa-house-signal",
-        "color": "#03A9F4",
-        "readmeUrl": "https://raw.githubusercontent.com/Factzz/netbow-master/refs/heads/main/README.md",
-        "coverImg": "https://raw.githubusercontent.com/Factzz/netbow-master/refs/heads/main/assets/cover.jpg",
-        "devImg": "https://avatars.githubusercontent.com/u/262336601?v=4",
-        "appUrl": "https://raw.githubusercontent.com/Factzz/ha-bridge/refs/heads/main/ha-bridge.html",
-        "contributors": []
-    }
+    "id": "ha-bridge",
+    "name": "HA Bridge",
+    "desc": "เชื่อมต่อ Home Assistant ผ่าน REST API",
+    "icon": "fa-house-signal",
+    "color": "#03A9F4",
+    "version": "1.0.0",
+    "author": "Rosemary Lab",
+    "readmeUrl": "https://raw.githubusercontent.com/Factzz/ha-bridge/refs/heads/main/README.md",
+    "coverImg": "https://raw.githubusercontent.com/Factzz/ha-bridge/refs/heads/main/assets/cover.jpg",
+    "devImg": "https://avatars.githubusercontent.com/u/262336601?v=4",
+    "appUrl": "https://raw.githubusercontent.com/Factzz/ha-bridge/refs/heads/main/ha-bridge.html",
+    "contributors": []
+  }
+
+ 
 ]
+
 
 
 

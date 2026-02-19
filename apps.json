@@ -26,5 +26,20 @@
     "devImg": "https://avatars.githubusercontent.com/u/262336601?v=4",
     "appUrl": "https://raw.githubusercontent.com/Factzz/ha-bridge/refs/heads/main/ha-bridge.html",
     "contributors": []
+  },
+  {
+    "id": "plant-profiles",
+    "name": "Plant Profiles",
+    "desc": "คลังสูตรสำเร็จสำหรับต้นไม้ ตั้งค่าความชื้นและเวลารดน้ำที่เหมาะสมได้ในคลิกเดียว",
+    "icon": "fa-leaf",
+    "color": "#4CAF50",
+    "version": "1.0.0",
+    "author": "Rosemary Lab",
+    "readmeUrl": " ",
+    "coverImg": " ",
+    "devImg": "https://avatars.githubusercontent.com/u/262336601?v=4",
+    "appUrl": "https://raw.githubusercontent.com/Factzz/plant-profiles/refs/heads/main/plant-profiles.html",
+    "contributors": []
   }
 ]
+

@@ -34,6 +34,7 @@
 | `readmeUrl` | URL | ลิงก์ไปยังไฟล์ `README.md` (Raw) ที่อธิบายรายละเอียดแอป |
 | `coverImg` | URL | รูปปกแนวนอน (แนะนำขนาด 800x400px) |
 | `devImg` | URL | รูปโปรไฟล์ผู้พัฒนา (แนะนำสี่เหลี่ยมจัตุรัส) |
+| `appurl` | URL | แอพพิเคชั่นของคุณ |
 | `contributors` | Array | รายชื่อรูปโปรไฟล์ผู้สนับสนุน (ถ้ามี) |
 
 ---
@@ -52,5 +53,7 @@
     "readmeUrl": "[https://raw.githubusercontent.com/username/repo/main/README.md](https://raw.githubusercontent.com/username/repo/main/README.md)",
     "coverImg": "[https://images.unsplash.com/photo-xxx](https://images.unsplash.com/photo-xxx)",
     "devImg": "[https://github.com/username.png](https://github.com/username.png)",
+    "appUrl": "https://raw.githubusercontent.com/uars/app-master/refs/heads/main/app.html",
     "contributors": []
+
 }

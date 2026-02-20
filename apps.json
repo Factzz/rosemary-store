@@ -3,6 +3,7 @@
     "id": "netbow-master",
     "name": "NetBow Master",
     "desc": "เครื่องคำนวณปริมาณน้ำสำหรับวงแหวน NetBow เปลี่ยนมิลลิลิตรเป็นวินาทีอัตโนมัติ",
+    "category": "เครื่องมือฟาร์ม"
     "icon": "fa-ring",
     "iconImg": "https://raw.githubusercontent.com/Factzz/netbow-master/refs/heads/main/assets/icon.png",
     "color": "#1d1d1d",
@@ -18,6 +19,7 @@
     "id": "ha-bridge",
     "name": "HA Bridge",
     "desc": "เชื่อมต่อ Home Assistant ผ่าน REST API",
+    "category": "Smart Home",
     "icon": "fa-house-signal",
     "color": "#03A9F4",
     "version": "1.0.0",
@@ -71,6 +73,7 @@
     "contributors": []
   }
 ]
+
 
 
 

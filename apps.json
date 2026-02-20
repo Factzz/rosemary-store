@@ -41,7 +41,8 @@
     "appUrl": "https://raw.githubusercontent.com/Factzz/plant-profiles/refs/heads/main/plant-profiles.html",
     "contributors": []
   },
-  "id": "smart-care-wizard",
+  {
+    "id": "smart-care-wizard",
     "name": "Smart Care Wizard",
     "desc": "ผู้ช่วยอัจฉริยะแบบถาม-ตอบ ช่วยคำนวณปริมาณน้ำและปุ๋ยแบบมืออาชีพโดยอัตโนมัติ",
     "icon": "fa-wand-magic-sparkles",
@@ -53,6 +54,8 @@
     "devImg": "https://avatars.githubusercontent.com/u/262336601?v=4",
     "appUrl": "https://raw.githubusercontent.com/Factzz/smart-care-wizard/refs/heads/main/smart-care.html",
     "contributors": []
+    }
 ]
+
 
 

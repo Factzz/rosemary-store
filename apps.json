@@ -4,6 +4,7 @@
     "name": "NetBow Master",
     "desc": "เครื่องคำนวณปริมาณน้ำสำหรับวงแหวน NetBow เปลี่ยนมิลลิลิตรเป็นวินาทีอัตโนมัติ",
     "icon": "fa-ring",
+    "iconImg": "https://raw.githubusercontent.com/Factzz/netbow-master/refs/heads/main/assets/icon.png",
     "color": "#1d1d1d",
     "version": "1.0.0",
     "author": "Rosemary Lab",
@@ -70,6 +71,7 @@
     "contributors": []
   }
 ]
+
 
 
 

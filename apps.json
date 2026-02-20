@@ -54,8 +54,22 @@
     "devImg": "https://avatars.githubusercontent.com/u/262336601?v=4",
     "appUrl": "https://raw.githubusercontent.com/Factzz/smart-care-wizard/refs/heads/main/smart-care.html",
     "contributors": []
-    }
+    }.
+  {
+    "id": "hydro-doser-pro",
+    "name": "Hydro Doser Pro",
+    "desc": "เครื่องมือคำนวณระยะเวลาจ่ายปุ๋ย A/B สำหรับระบบไฮโดรโปนิกส์ ตามปริมาตรถังและสเปคปั๊ม",
+    "icon": "fa-flask-vial",
+    "color": "#00d4ff",
+    "version": "1.0.0",
+    "author": "Rosemary Lab",
+    "readmeUrl": " ",
+    "coverImg": " ",
+    "devImg": "https://avatars.githubusercontent.com/u/262336601?v=4",
+    "appUrl": "https://raw.githubusercontent.com/Factzz/Hydro-Doser-Pro/refs/heads/main/hydro-doser.html",
+    "contributors": []
 ]
+
 
 
 

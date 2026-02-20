@@ -48,6 +48,7 @@
     "id": "smart-care-wizard",
     "name": "Smart Care Wizard",
     "desc": "ผู้ช่วยอัจฉริยะแบบถาม-ตอบ ช่วยคำนวณปริมาณน้ำและปุ๋ยแบบมืออาชีพโดยอัตโนมัติ",
+    "category": "เกษตรอัจฉริยะ",
     "icon": "fa-wand-magic-sparkles",
     "color": "#00d4ff",
     "version": "1.0.0",
@@ -62,6 +63,7 @@
     "id": "hydro-doser-pro",
     "name": "Hydro Doser Pro",
     "desc": "เครื่องมือคำนวณระยะเวลาจ่ายปุ๋ย A/B สำหรับระบบไฮโดรโปนิกส์ ตามปริมาตรถังและสเปคปั๊ม",
+    "category": "เกษตรอัจฉริยะ",
     "icon": "fa-flask-vial",
     "color": "#00d4ff",
     "version": "1.0.0",
@@ -73,6 +75,7 @@
     "contributors": []
   }
 ]
+
 
 
 

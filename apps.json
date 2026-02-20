@@ -3,7 +3,7 @@
     "id": "netbow-master",
     "name": "NetBow Master",
     "desc": "เครื่องคำนวณปริมาณน้ำสำหรับวงแหวน NetBow เปลี่ยนมิลลิลิตรเป็นวินาทีอัตโนมัติ",
-    "category": "เครื่องมือฟาร์ม"
+    "category": "เครื่องมือฟาร์ม",
     "icon": "fa-ring",
     "iconImg": "https://raw.githubusercontent.com/Factzz/netbow-master/refs/heads/main/assets/icon.png",
     "color": "#1d1d1d",
@@ -34,6 +34,7 @@
     "id": "plant-profiles",
     "name": "Plant Profiles",
     "desc": "คลังสูตรสำเร็จสำหรับต้นไม้ ตั้งค่าความชื้นและเวลารดน้ำที่เหมาะสมได้ในคลิกเดียว",
+    "category": "เกษตรอัจฉริยะ",
     "icon": "fa-leaf",
     "color": "#4CAF50",
     "version": "1.0.0",
@@ -75,6 +76,7 @@
     "contributors": []
   }
 ]
+
 
 
 

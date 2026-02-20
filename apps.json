@@ -3,7 +3,6 @@
     "id": "netbow-master",
     "name": "NetBow Master",
     "desc": "เครื่องคำนวณปริมาณน้ำสำหรับวงแหวน NetBow เปลี่ยนมิลลิลิตรเป็นวินาทีอัตโนมัติ",
-    "category": "เครื่องมือฟาร์ม",
     "icon": "fa-ring",
     "iconImg": "https://raw.githubusercontent.com/Factzz/netbow-master/refs/heads/main/assets/icon.png",
     "color": "#1d1d1d",
@@ -19,7 +18,6 @@
     "id": "ha-bridge",
     "name": "HA Bridge",
     "desc": "เชื่อมต่อ Home Assistant ผ่าน REST API",
-    "category": "Smart Home",
     "icon": "fa-house-signal",
     "color": "#03A9F4",
     "version": "1.0.0",
@@ -34,7 +32,6 @@
     "id": "plant-profiles",
     "name": "Plant Profiles",
     "desc": "คลังสูตรสำเร็จสำหรับต้นไม้ ตั้งค่าความชื้นและเวลารดน้ำที่เหมาะสมได้ในคลิกเดียว",
-    "category": "เกษตรอัจฉริยะ",
     "icon": "fa-leaf",
     "color": "#4CAF50",
     "version": "1.0.0",
@@ -49,7 +46,6 @@
     "id": "smart-care-wizard",
     "name": "Smart Care Wizard",
     "desc": "ผู้ช่วยอัจฉริยะแบบถาม-ตอบ ช่วยคำนวณปริมาณน้ำและปุ๋ยแบบมืออาชีพโดยอัตโนมัติ",
-    "category": "เกษตรอัจฉริยะ",
     "icon": "fa-wand-magic-sparkles",
     "color": "#00d4ff",
     "version": "1.0.0",
@@ -63,8 +59,7 @@
   {
     "id": "hydro-doser-pro",
     "name": "Hydro Doser Pro",
-    "desc": "เครื่องมือคำนวณระยะเวลาจ่ายปุ๋ย A/B สำหรับระบบไฮโดรโปนิกส์ ตามปริมาตรถังและสเปคปั๊ม",
-    "category": "เกษตรอัจฉริยะ",
+    "desc": "เครื่องมือคำนวณระยะเวลาจ่ายปุ๋ย A/B สำหรับระบบไฮโดรโปนิกส์ ตามปริมาตรถังและสเปคปั๊ม",,
     "icon": "fa-flask-vial",
     "color": "#00d4ff",
     "version": "1.0.0",
@@ -76,6 +71,7 @@
     "contributors": []
   }
 ]
+
 
 
 

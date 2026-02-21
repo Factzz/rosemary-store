@@ -3,8 +3,8 @@
     "id": "netbow-master",
     "name": "NetBow Master",
     "desc": "เครื่องคำนวณปริมาณน้ำสำหรับวงแหวน NetBow เปลี่ยนมิลลิลิตรเป็นวินาทีอัตโนมัติ",
-    "icon": "fa-ring",
     "category": "เครื่องมือฟาร์ม",
+    "icon": "fa-ring",
     "iconImg": "https://raw.githubusercontent.com/Factzz/netbow-master/refs/heads/main/assets/icon.png",
     "color": "#1d1d1d",
     "version": "1.0.0",
@@ -82,7 +82,7 @@
     "id": "smart-schedule",
     "name": "Smart Schedule",
     "desc": "ตั้งเวลารดน้ำแบบเจาะจงวัน และดูกราฟสถิติการรดน้ำย้อนหลังแบบเจาะลึก",
-    "category": "เครื่อมืออำนวยความสะดวก",
+    "category": "เครื่องมืออำนวยความสะดวก",
     "type": "widget",
     "icon": "fa-calendar-days",
     "color": "#1d1d1d",
@@ -91,11 +91,7 @@
     "readmeUrl": " ",
     "coverImg": " ",
     "devImg": "https://avatars.githubusercontent.com/u/262336601?v=4",
-    "appUrl": "https://raw.githubusercontent.com/Factzz/smart-schedul/refs/heads/main/smart-schedule.html",
+    "appUrl": "https://raw.githubusercontent.com/Factzz/smart-schedule/refs/heads/main/smart-schedule.html",
     "contributors": []
   }
 ]
-
-
-
-
